@@ -1,0 +1,2 @@
+# douban_spider_mongo
+利用基本的scrapy框架爬取豆瓣数据存储到mongodb中
